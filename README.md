@@ -1,2 +1,2 @@
 - [The Executor](https://gofile.io/d/LMfc62)
-- [The Script]()
+- [The Script](https://raw.githubusercontent.com/dimzan62/BLAHBLAH/refs/heads/main/mybrother.lua)
